@@ -1,5 +1,4 @@
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
   Welcome to Mahmoud Amin's profile!
@@ -21,7 +20,7 @@
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/mahmoud-amin-15023025a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Amin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100009093608419" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Amin-0077B5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100009093608419" target="_blank"></a>
 
 
 ### 🛠 &nbsp;Tech Stack
